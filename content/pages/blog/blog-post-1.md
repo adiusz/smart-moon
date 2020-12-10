@@ -1,5 +1,5 @@
 ---
-title: O chuju złoty
+title: O luju złoty
 date: '2020-12-10'
 categories: []
 tags: []
