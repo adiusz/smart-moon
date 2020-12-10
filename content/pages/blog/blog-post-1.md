@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: O chuju złoty
 date: '2020-12-10'
 categories: []
 tags: []
