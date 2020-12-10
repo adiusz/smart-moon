@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact
-    align: center
+    align: right
   - type: contact_section
 layout: advanced
 ---
